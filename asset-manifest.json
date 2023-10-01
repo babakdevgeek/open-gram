@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/open-gram/static/css/main.432c14df.css",
+    "main.js": "/open-gram/static/js/main.1228a204.js",
+    "index.html": "/open-gram/index.html",
+    "main.432c14df.css.map": "/open-gram/static/css/main.432c14df.css.map",
+    "main.1228a204.js.map": "/open-gram/static/js/main.1228a204.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.432c14df.css",
+    "static/js/main.1228a204.js"
+  ]
+}
