@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/open-gram/static/css/main.668103f0.css",
-    "main.js": "/open-gram/static/js/main.7ba7cefe.js",
+    "main.css": "/open-gram/static/css/main.c1457b76.css",
+    "main.js": "/open-gram/static/js/main.b0356a3c.js",
     "index.html": "/open-gram/index.html",
-    "main.668103f0.css.map": "/open-gram/static/css/main.668103f0.css.map",
-    "main.7ba7cefe.js.map": "/open-gram/static/js/main.7ba7cefe.js.map"
+    "main.c1457b76.css.map": "/open-gram/static/css/main.c1457b76.css.map",
+    "main.b0356a3c.js.map": "/open-gram/static/js/main.b0356a3c.js.map"
   },
   "entrypoints": [
-    "static/css/main.668103f0.css",
-    "static/js/main.7ba7cefe.js"
+    "static/css/main.c1457b76.css",
+    "static/js/main.b0356a3c.js"
   ]
 }
